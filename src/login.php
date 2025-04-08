@@ -14,7 +14,7 @@
 </head>
 <body class="bg-[url('https://static.vecteezy.com/system/resources/previews/027/544/940/large_2x/background-with-blue-abstract-multilayered-wavy-pattern-paper-art-style-template-design-for-posters-banners-flyers-booklets-vector.jpg')] bg-center bg-cover bg-no-repeat h-[100vh] w-screen flex flex-col md:flex-row items-center justify-between">
     <!-- Left Section -->
-    <div class="max-w-full md:max-w-lg py-10 md:py-8 px-8 md:pl-20 text-center md:text-left">
+    <div class="max-w-full md:max-w-lg py-6 md:py-4 px-8 md:pl-20 text-center md:text-left">
         <h1 class="text-4xl md:text-8xl font-bold mb-8 md:mb-24 text-white">Welcome to AMS!</h1>
     </div>
 
